@@ -14,12 +14,10 @@ require (
 	github.com/onsi/gomega v1.15.0
 	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/client_model v0.2.0
-	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d
-	golang.org/x/sys v0.0.0-20211004093028-2c5d950f24ef
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
+	golang.org/x/net v0.7.0
+	golang.org/x/sys v0.5.0
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	google.golang.org/grpc v1.38.0
-	gotest.tools/gotestsum v1.7.0 // indirect
 	k8s.io/api v0.22.2
 	k8s.io/apiextensions-apiserver v0.22.2
 	k8s.io/apimachinery v0.22.2
